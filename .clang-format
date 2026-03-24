@@ -1,0 +1,5 @@
+---
+BasedOnStyle: LLVM
+BinPackArguments: false
+BinPackParameters: false
+KeepEmptyLinesAtTheStartOfBlocks: true
