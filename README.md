@@ -3,7 +3,7 @@
 A roadmap of my progression through **Codeforces** challenges, focusing on deep logic, data structures, and algorithmic efficiency.
 
 ## The "No-STL" Philosophy
-Unlike standard competitive programming approaches, I prioritize building my own utility libraries from scratch. Instead of relying solely on the C++ Standard Template Library (STL), I implement my own logic to master:
+Unlike standard competitive programming approaches, I prioritize building my own utility libraries from scratch. Instead of relying solely on the Rust Standard Template Library (STL), I implement my own logic to master:
 
 * **Memory Management:** Understanding how data sits in memory.
 * **Manual Manipulation:** Building my own string and math utilities.
